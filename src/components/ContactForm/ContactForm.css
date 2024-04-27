@@ -1,0 +1,16 @@
+.contact-form {
+    margin-bottom: 20px;
+  }
+  
+  .contact-form input {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  .contact-form button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+  }
+  
